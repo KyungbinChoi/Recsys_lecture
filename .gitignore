@@ -1,3 +1,4 @@
+.gitconfig
 .DS_Store
 02_ML_based_recommendation/anime/*
 03_DL_based_recommendation/ml-100k/*
